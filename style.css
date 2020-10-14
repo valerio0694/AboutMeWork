@@ -1,0 +1,132 @@
+* {
+	font-family: Bookman Old Style;
+	text-align: center;
+}
+
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 400%;
+  font-family: Bookman Old Style;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  text-shadow: 3px 3px 1px #ffffff;
+  position: relative;
+  top: 60px
+}
+
+#list {
+  background-color: #000000;
+  padding: 1px;
+  position: relative;
+  bottom: 5px
+}
+
+li.one {
+  display: inline;
+  padding: 20px;
+}
+
+p {
+  font-size: 130%;
+  text-align: justify;
+}
+
+#listHobbies {
+  list-style-type: square;
+}
+
+li {
+  padding: 21px;
+  font-family: segoe ui;
+  text-align: justify;
+  font-size: 120%;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: orange;
+}
+
+a.two:link {
+  color: black;
+  text-decoration: none;
+}
+
+a.two:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+a.two:visited {
+  color: green;
+}
+
+p.one {
+  font-size: 115%;
+  font-family: segoe ui;
+  text-align: justify;
+}
+
+p.two {
+  text-align: center;
+}
+
+.Hobbies, .Goals, .Why {
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+
+
+#Backgroundone {
+  color: black;
+  background-color: gold;
+  text-shadow: 2px 2px 1px #DAA520;
+}
+
+#Backgroundtwo {
+  color: black;
+  background-color: tomato;
+  text-shadow: 2px 2px 1px #B22222;
+}
+
+#Backgroundthree {
+  color: black;
+  background-color: deepskyblue;
+  text-shadow: 2px 2px 1px #1E90FF;
+}
+
+#Backgroundfour {
+  font-size: 300%;
+  font-family: Baskerville Old Face;
+  text-shadow: 3px 3px 2px #DCDCDC;
+}
+
+#Backgroundfive {
+  background-color: #E6E6FA;
+  text-shadow: 2px 2px 2px #9370DB;
+}
+
+.facebook {
+  position: relative;
+  top: 13px;
+}
+
+.email {
+  position: relative;
+  top: 5px;
+}
